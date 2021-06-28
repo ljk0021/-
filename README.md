@@ -19,3 +19,6 @@ edcutio
 
 
 <img src="https://user-images.githubusercontent.com/86450993/123567071-5011b400-d7fc-11eb-8547-6c6b65d16753.gif" width="320px" height="240px" title="px(픽셀) 크기 설정" alt="Andong univ"></img><br/>
+
+
+[identifier]:https://github.com/ljk0021/Engcomm/edit/main/README.md
